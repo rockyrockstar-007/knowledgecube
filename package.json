@@ -1,5 +1,5 @@
 {
-  "name": "lingo",
+  "name": "knowladgecube",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "db:seed": "tsx ./scripts/seed.ts"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.29.10",
+    "@clerk/nextjs": "^4.31.6",
     "@neondatabase/serverless": "^0.9.0",
     "@radix-ui/react-dialog": "^1.1.1",
     "@radix-ui/react-progress": "^1.1.0",
